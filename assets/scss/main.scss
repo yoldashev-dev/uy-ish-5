@@ -1,0 +1,14 @@
+@import "./util/index";
+@import "./globls/globl";
+
+
+.header-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-linc{
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(31, 46, 53, 0.8);
+}
